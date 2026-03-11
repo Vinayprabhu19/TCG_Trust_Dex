@@ -8,6 +8,27 @@
   },
   "entries": [
     {
+      "id": "gen_001",
+      "name": "Magikart",
+      "status": "genuine",
+      "trust_level": "verified",
+      "seller_type": "Seller",
+      "tcg_type": "Pokemon",
+      "products": [
+        "Singles",
+        "Booster Packs"
+      ],
+      "instagram": {
+        "handle": "@magikart.in",
+        "url": "https://www.instagram.com/magikart.in"
+      },
+      "tags": [
+        "trusted",
+        "id_verified"
+      ],
+      "id_verified": true
+    },
+    {
       "id": "gen_002",
       "name": "Galaxy Vault",
       "status": "genuine",
@@ -348,27 +369,6 @@
       "instagram": {
         "handle": "@pokemon_playerindia",
         "url": "https://www.instagram.com/pokemon_playerindia"
-      },
-      "tags": [
-        "trusted",
-        "id_verified"
-      ],
-      "id_verified": true
-    },
-    {
-      "id": "gen_041",
-      "name": "Magikart",
-      "status": "genuine",
-      "trust_level": "verified",
-      "seller_type": "Seller",
-      "tcg_type": "Pokemon",
-      "products": [
-        "Singles",
-        "Booster Packs"
-      ],
-      "instagram": {
-        "handle": "@magikart.in",
-        "url": "https://www.instagram.com/magikart.in"
       },
       "tags": [
         "trusted",
