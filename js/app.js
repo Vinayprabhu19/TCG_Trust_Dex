@@ -4,13 +4,13 @@
 
 let ALL_ENTRIES = [];
 let activeFilter = 'all';
+let isExpanded = false;
 
 /* ---------- Bootstrap ---------- */
 document.addEventListener('DOMContentLoaded', async () => {
   spawnBackgroundSymbols();
   ALL_ENTRIES = await loadData();
   updateStats();
-  applyFilters();
   bindEvents();
 });
 
@@ -44,6 +44,7 @@ function bindEvents() {
       document.querySelectorAll('.cat-btn').forEach(b => b.classList.remove('active'));
       btn.classList.add('active');
       activeFilter = btn.dataset.filter;
+      expandDex();
       applyFilters();
     });
   });
@@ -53,7 +54,10 @@ function bindEvents() {
   let debounceTimer;
   searchInput.addEventListener('input', () => {
     clearTimeout(debounceTimer);
-    debounceTimer = setTimeout(() => applyFilters(), 150);
+    debounceTimer = setTimeout(() => {
+      if (searchInput.value.trim()) expandDex();
+      if (isExpanded) applyFilters();
+    }, 150);
   });
 
   // D-pad buttons
@@ -72,6 +76,13 @@ function bindEvents() {
   document.getElementById('btnB').addEventListener('click', () => {
     closeDetail();
   });
+}
+
+/* ---------- Expand from collapsed state ---------- */
+function expandDex() {
+  if (isExpanded) return;
+  isExpanded = true;
+  document.querySelector('.pokedex').classList.add('expanded');
 }
 
 /* ---------- D-pad Scroll & Focus ---------- */
