@@ -1,0 +1,1032 @@
+{
+  "meta": {
+    "version": "1.0",
+    "last_updated": "2025-03",
+    "market": "India TCG Community",
+    "total_genuine": 45,
+    "total_scammers": 5
+  },
+  "entries": [
+    {
+      "id": "gen_002",
+      "name": "Galaxy Vault",
+      "status": "genuine",
+      "trust_level": "verified",
+      "seller_type": "Seller",
+      "tcg_type": "Pokemon",
+      "products": [
+        "Singles"
+      ],
+      "instagram": {
+        "handle": "@galaxy__vault",
+        "url": "https://www.instagram.com/galaxy__vault"
+      },
+      "tags": [
+        "trusted",
+        "id_verified"
+      ],
+      "id_verified": true
+    },
+    {
+      "id": "gen_003",
+      "name": "Panda Card",
+      "status": "genuine",
+      "trust_level": "verified",
+      "seller_type": "Seller",
+      "tcg_type": "Pokemon",
+      "products": [
+        "Singles"
+      ],
+      "instagram": {
+        "handle": "@pandacard_india",
+        "url": "https://www.instagram.com/pandacard_india"
+      },
+      "tags": [
+        "trusted",
+        "id_verified"
+      ],
+      "id_verified": true
+    },
+    {
+      "id": "gen_004",
+      "name": "Curree Collectibles",
+      "status": "genuine",
+      "trust_level": "verified",
+      "seller_type": "Seller",
+      "tcg_type": "Pokemon",
+      "products": [
+        "Singles"
+      ],
+      "instagram": {
+        "handle": "@curree_collectibles",
+        "url": "https://www.instagram.com/curree_collectibles"
+      },
+      "tags": [
+        "trusted",
+        "id_verified"
+      ],
+      "id_verified": true
+    },
+    {
+      "id": "gen_005",
+      "name": "TCG Republic",
+      "status": "genuine",
+      "trust_level": "verified",
+      "seller_type": "Seller",
+      "tcg_type": "Pokemon",
+      "products": [
+        "Singles",
+        "Booster Packs"
+      ],
+      "instagram": {
+        "handle": "@tcgrepublic.in",
+        "url": "https://www.instagram.com/tcgrepublic.in"
+      },
+      "tags": [
+        "trusted",
+        "id_verified"
+      ],
+      "id_verified": true
+    },
+    {
+      "id": "gen_006",
+      "name": "Beyond Gaming",
+      "status": "genuine",
+      "trust_level": "verified",
+      "seller_type": "Seller",
+      "tcg_type": "Pokemon",
+      "products": [
+        "Singles",
+        "Booster Packs"
+      ],
+      "instagram": {
+        "handle": "@beyondgaming.in",
+        "url": "https://www.instagram.com/beyondgaming.in"
+      },
+      "tags": [
+        "trusted",
+        "id_verified"
+      ],
+      "id_verified": true
+    },
+    {
+      "id": "gen_007",
+      "name": "Tofu TCG",
+      "status": "genuine",
+      "trust_level": "verified",
+      "seller_type": "Seller",
+      "tcg_type": "Pokemon",
+      "products": [
+        "Singles",
+        "Booster Packs"
+      ],
+      "instagram": {
+        "handle": "@tofutcg.in",
+        "url": "https://www.instagram.com/tofutcg.in"
+      },
+      "tags": [
+        "trusted",
+        "id_verified"
+      ],
+      "id_verified": true
+    },
+    {
+      "id": "gen_008",
+      "name": "Pokemon Cards Center",
+      "status": "genuine",
+      "trust_level": "verified",
+      "seller_type": "Seller",
+      "tcg_type": "Pokemon",
+      "products": [
+        "Singles"
+      ],
+      "instagram": {
+        "handle": "@pokemon_cards_center",
+        "url": "https://www.instagram.com/pokemon_cards_center"
+      },
+      "tags": [
+        "trusted",
+        "id_verified"
+      ],
+      "id_verified": true
+    },
+    {
+      "id": "gen_009",
+      "name": "Collecktor Inc.",
+      "status": "genuine",
+      "trust_level": "verified",
+      "seller_type": "Seller",
+      "tcg_type": "Pokemon",
+      "products": [
+        "Singles",
+        "Booster Packs"
+      ],
+      "instagram": {
+        "handle": "@collektor.inc",
+        "url": "https://www.instagram.com/collektor.inc/"
+      },
+      "tags": [
+        "trusted",
+        "id_verified"
+      ],
+      "id_verified": true
+    },
+    {
+      "id": "gen_023",
+      "name": "Prismatic Vault",
+      "status": "genuine",
+      "trust_level": "verified",
+      "seller_type": "Seller",
+      "tcg_type": "Pokemon",
+      "products": [
+        "Singles"
+      ],
+      "instagram": {
+        "handle": "@prismatic_vault",
+        "url": "https://www.instagram.com/prismatic_vault"
+      },
+      "tags": [
+        "trusted",
+        "id_verified"
+      ],
+      "id_verified": true
+    },
+    {
+      "id": "gen_024",
+      "name": "Brock TCG/Viraj Mutha",
+      "status": "genuine",
+      "trust_level": "verified",
+      "seller_type": "Seller",
+      "tcg_type": "Pokemon",
+      "products": [
+        "Singles",
+        "Booster Packs"
+      ],
+      "instagram": {
+        "handle": "@brock.__.tcg",
+        "url": "https://www.instagram.com/brock.__.tcg"
+      },
+      "tags": [
+        "trusted",
+        "id_verified"
+      ],
+      "id_verified": true
+    },
+    {
+      "id": "gen_026",
+      "name": "Joes Blues",
+      "status": "genuine",
+      "trust_level": "verified",
+      "seller_type": "Seller",
+      "tcg_type": "Pokemon",
+      "products": [
+        "Singles",
+        "Booster Packs"
+      ],
+      "instagram": {
+        "handle": "@joesblues_tcg",
+        "url": "https://www.instagram.com/joesblues_tcg/"
+      },
+      "tags": [
+        "trusted",
+        "id_verified"
+      ],
+      "id_verified": true
+    },
+    {
+      "id": "gen_027",
+      "name": "Arhan",
+      "status": "genuine",
+      "trust_level": "verified",
+      "seller_type": "Seller",
+      "tcg_type": "Pokemon",
+      "products": [
+        "Singles",
+        "Booster Packs"
+      ],
+      "instagram": {
+        "handle": "@thecollectorswarehouse",
+        "url": "https://www.instagram.com/thecollectorswarehouse"
+      },
+      "tags": [
+        "trusted",
+        "id_verified"
+      ],
+      "id_verified": true
+    },
+    {
+      "id": "gen_028",
+      "name": "PokeTrade Hub",
+      "status": "genuine",
+      "trust_level": "verified",
+      "seller_type": "Seller",
+      "tcg_type": "Pokemon",
+      "products": [
+        "Singles"
+      ],
+      "instagram": {
+        "handle": "@poketrade_hub_tcg",
+        "url": "https://www.instagram.com/poketrade_hub_tcg"
+      },
+      "tags": [
+        "trusted",
+        "id_verified"
+      ],
+      "id_verified": true
+    },
+    {
+      "id": "gen_034",
+      "name": "The Poké Mystery",
+      "status": "genuine",
+      "trust_level": "verified",
+      "seller_type": "Seller",
+      "tcg_type": "Pokemon",
+      "products": [
+        "Mystery Boxes"
+      ],
+      "instagram": {
+        "handle": "@thepokemystery",
+        "url": "https://www.instagram.com/thepokemystery"
+      },
+      "tags": [
+        "trusted",
+        "id_verified"
+      ],
+      "id_verified": true
+    },
+    {
+      "id": "gen_035",
+      "name": "Capital Collecriverse",
+      "status": "genuine",
+      "trust_level": "verified",
+      "seller_type": "Seller",
+      "tcg_type": "Pokemon",
+      "products": [
+        "Singles",
+        "Booster Packs"
+      ],
+      "instagram": {
+        "handle": "@capitalcollectiverse",
+        "url": "https://www.instagram.com/capitalcollectiverse"
+      },
+      "tags": [
+        "trusted",
+        "id_verified"
+      ],
+      "id_verified": true
+    },
+    {
+      "id": "gen_036",
+      "name": "Rare find Collectibles",
+      "status": "genuine",
+      "trust_level": "verified",
+      "seller_type": "Seller",
+      "tcg_type": "Pokemon",
+      "products": [
+        "Singles"
+      ],
+      "instagram": {
+        "handle": "@rarefindcollectibles",
+        "url": "https://www.instagram.com/rarefindcollectibles"
+      },
+      "tags": [
+        "trusted",
+        "id_verified"
+      ],
+      "id_verified": true
+    },
+    {
+      "id": "gen_040",
+      "name": "Pokemon_PlayerIndia",
+      "status": "genuine",
+      "trust_level": "verified",
+      "seller_type": "Seller",
+      "tcg_type": "Pokemon",
+      "products": [
+        "Singles"
+      ],
+      "instagram": {
+        "handle": "@pokemon_playerindia",
+        "url": "https://www.instagram.com/pokemon_playerindia"
+      },
+      "tags": [
+        "trusted",
+        "id_verified"
+      ],
+      "id_verified": true
+    },
+    {
+      "id": "gen_041",
+      "name": "Magikart",
+      "status": "genuine",
+      "trust_level": "verified",
+      "seller_type": "Seller",
+      "tcg_type": "Pokemon",
+      "products": [
+        "Singles",
+        "Booster Packs"
+      ],
+      "instagram": {
+        "handle": "@magikart.in",
+        "url": "https://www.instagram.com/magikart.in"
+      },
+      "tags": [
+        "trusted",
+        "id_verified"
+      ],
+      "id_verified": true
+    },
+    {
+      "id": "gen_045",
+      "name": "Indian Master TCG",
+      "status": "genuine",
+      "trust_level": "verified",
+      "seller_type": "Seller",
+      "tcg_type": "Pokemon",
+      "products": [
+        "Singles",
+        "Booster Packs"
+      ],
+      "instagram": {
+        "handle": "@indian.master.tcg",
+        "url": "https://www.instagram.com/indian.master.tcg/"
+      },
+      "tags": [
+        "trusted",
+        "id_verified"
+      ],
+      "id_verified": true
+    },
+    {
+      "id": "gen_010",
+      "name": "Epic Trinkets",
+      "status": "genuine",
+      "trust_level": "verified",
+      "seller_type": "Individual",
+      "tcg_type": "Pokemon",
+      "products": [
+        "Singles"
+      ],
+      "instagram": {
+        "handle": "@epic.trinkets",
+        "url": "https://www.instagram.com/epic.trinkets/"
+      },
+      "tags": [
+        "trusted",
+        "id_verified"
+      ],
+      "id_verified": true
+    },
+    {
+      "id": "gen_011",
+      "name": "Poke Collectables (Dev)",
+      "status": "genuine",
+      "trust_level": "verified",
+      "seller_type": "Individual",
+      "tcg_type": "Pokemon",
+      "products": [
+        "Singles"
+      ],
+      "instagram": {
+        "handle": "@poke_collectables11",
+        "url": "https://www.instagram.com/poke_collectables11"
+      },
+      "tags": [
+        "trusted",
+        "id_verified"
+      ],
+      "id_verified": true
+    },
+    {
+      "id": "gen_012",
+      "name": "Joe Pulls",
+      "status": "genuine",
+      "trust_level": "verified",
+      "seller_type": "Individual",
+      "tcg_type": "Pokemon",
+      "products": [
+        "Booster Packs"
+      ],
+      "instagram": {
+        "handle": "@joe.pulls",
+        "url": "https://www.instagram.com/joe.pulls"
+      },
+      "tags": [
+        "trusted",
+        "id_verified"
+      ],
+      "id_verified": true
+    },
+    {
+      "id": "gen_013",
+      "name": "That90'sKid",
+      "status": "genuine",
+      "trust_level": "verified",
+      "seller_type": "Individual",
+      "tcg_type": "Pokemon",
+      "products": [
+        "Singles"
+      ],
+      "instagram": {
+        "handle": "@that.9tskid",
+        "url": "https://www.instagram.com/that.9tskid/"
+      },
+      "tags": [
+        "trusted",
+        "id_verified"
+      ],
+      "id_verified": true
+    },
+    {
+      "id": "gen_014",
+      "name": "Shlok goel",
+      "status": "genuine",
+      "trust_level": "verified",
+      "seller_type": "Individual",
+      "tcg_type": "Pokemon",
+      "products": [
+        "Singles"
+      ],
+      "instagram": {
+        "handle": "@shlokkgoel",
+        "url": "https://www.instagram.com/shlokkgoel"
+      },
+      "tags": [
+        "trusted",
+        "id_verified"
+      ],
+      "id_verified": true
+    },
+    {
+      "id": "gen_015",
+      "name": "Raunik",
+      "status": "genuine",
+      "trust_level": "verified",
+      "seller_type": "Individual",
+      "tcg_type": "Pokemon",
+      "products": [
+        "Singles"
+      ],
+      "instagram": {
+        "handle": "@raunik_07",
+        "url": "https://www.instagram.com/raunik_07/"
+      },
+      "tags": [
+        "trusted",
+        "id_verified"
+      ],
+      "id_verified": true
+    },
+    {
+      "id": "gen_016",
+      "name": "Childhoodnostalgia",
+      "status": "genuine",
+      "trust_level": "verified",
+      "seller_type": "Individual",
+      "tcg_type": "Pokemon",
+      "products": [
+        "Singles"
+      ],
+      "instagram": {
+        "handle": "@childhoodnostalgia_in",
+        "url": "https://www.instagram.com/childhoodnostalgia_in"
+      },
+      "tags": [
+        "trusted",
+        "id_verified"
+      ],
+      "id_verified": true
+    },
+    {
+      "id": "gen_017",
+      "name": "Dhruvasellspokemon",
+      "status": "genuine",
+      "trust_level": "verified",
+      "seller_type": "Individual",
+      "tcg_type": "Pokemon",
+      "products": [
+        "Singles"
+      ],
+      "instagram": {
+        "handle": "@dhruvasellspokemon",
+        "url": "https://www.instagram.com/dhruvasellspokemon/"
+      },
+      "tags": [
+        "trusted",
+        "id_verified"
+      ],
+      "id_verified": true
+    },
+    {
+      "id": "gen_018",
+      "name": "Rollo Bolt",
+      "status": "genuine",
+      "trust_level": "verified",
+      "seller_type": "Individual",
+      "tcg_type": "Pokemon",
+      "products": [
+        "Singles"
+      ],
+      "instagram": {
+        "handle": "@rollo_bolt",
+        "url": "https://www.instagram.com/rollo_bolt"
+      },
+      "tags": [
+        "trusted",
+        "id_verified"
+      ],
+      "id_verified": true
+    },
+    {
+      "id": "gen_019",
+      "name": "Poke_Jb7 (jay)",
+      "status": "genuine",
+      "trust_level": "verified",
+      "seller_type": "Individual",
+      "tcg_type": "Pokemon",
+      "products": [
+        "Singles"
+      ],
+      "instagram": {
+        "handle": "@poke_jb7",
+        "url": "https://www.instagram.com/poke_jb7"
+      },
+      "tags": [
+        "trusted",
+        "id_verified"
+      ],
+      "id_verified": true
+    },
+    {
+      "id": "gen_020",
+      "name": "Raghav",
+      "status": "genuine",
+      "trust_level": "verified",
+      "seller_type": "Individual",
+      "tcg_type": "Pokemon",
+      "products": [
+        "Singles"
+      ],
+      "instagram": {
+        "handle": "@rxghav",
+        "url": "https://www.instagram.com/rxghav/"
+      },
+      "tags": [
+        "trusted",
+        "id_verified"
+      ],
+      "id_verified": true
+    },
+    {
+      "id": "gen_021",
+      "name": "Pokecard_Collector10",
+      "status": "genuine",
+      "trust_level": "verified",
+      "seller_type": "Individual",
+      "tcg_type": "Pokemon",
+      "products": [
+        "Singles"
+      ],
+      "instagram": {
+        "handle": "@pokecard_collector10",
+        "url": "https://www.instagram.com/pokecard_collector10/"
+      },
+      "tags": [
+        "trusted",
+        "id_verified"
+      ],
+      "id_verified": true
+    },
+    {
+      "id": "gen_022",
+      "name": "Vivaan",
+      "status": "genuine",
+      "trust_level": "verified",
+      "seller_type": "Individual",
+      "tcg_type": "Pokemon",
+      "products": [
+        "Singles"
+      ],
+      "instagram": {
+        "handle": "@pokemaniac_tcg_in",
+        "url": "https://www.instagram.com/pokemaniac_tcg_in/"
+      },
+      "tags": [
+        "trusted",
+        "id_verified"
+      ],
+      "id_verified": true
+    },
+    {
+      "id": "gen_025",
+      "name": "Priyam",
+      "status": "genuine",
+      "trust_level": "verified",
+      "seller_type": "Individual",
+      "tcg_type": "Pokemon",
+      "products": [
+        "Singles"
+      ],
+      "instagram": {
+        "handle": "@tcg_kaiser",
+        "url": "https://www.instagram.com/tcg_kaiser"
+      },
+      "tags": [
+        "trusted",
+        "id_verified"
+      ],
+      "id_verified": true
+    },
+    {
+      "id": "gen_029",
+      "name": "TCG _Red (Kiran)",
+      "status": "genuine",
+      "trust_level": "verified",
+      "seller_type": "Individual",
+      "tcg_type": "Pokemon",
+      "products": [
+        "Singles"
+      ],
+      "instagram": {
+        "handle": "@tcg_red",
+        "url": "https://www.instagram.com/tcg_red"
+      },
+      "tags": [
+        "trusted",
+        "id_verified"
+      ],
+      "id_verified": true
+    },
+    {
+      "id": "gen_030",
+      "name": "Poke BounceTCG (Lokesh JA)",
+      "status": "genuine",
+      "trust_level": "verified",
+      "seller_type": "Individual",
+      "tcg_type": "Pokemon",
+      "products": [
+        "Singles"
+      ],
+      "instagram": {
+        "handle": "@poke.bounce.tcg",
+        "url": "https://www.instagram.com/poke.bounce.tcg/"
+      },
+      "tags": [
+        "trusted",
+        "id_verified"
+      ],
+      "id_verified": true
+    },
+    {
+      "id": "gen_031",
+      "name": "Tcg Reddy",
+      "status": "genuine",
+      "trust_level": "verified",
+      "seller_type": "Individual",
+      "tcg_type": "Pokemon",
+      "products": [
+        "Singles"
+      ],
+      "instagram": {
+        "handle": "@tcg_reddy",
+        "url": "https://www.instagram.com/tcg_reddy"
+      },
+      "tags": [
+        "trusted",
+        "id_verified"
+      ],
+      "id_verified": true
+    },
+    {
+      "id": "gen_032",
+      "name": "Quaso.Collects",
+      "status": "genuine",
+      "trust_level": "verified",
+      "seller_type": "Individual",
+      "tcg_type": "Pokemon",
+      "products": [
+        "Singles"
+      ],
+      "instagram": {
+        "handle": "@quaso.collects",
+        "url": "https://www.instagram.com/quaso.collects/"
+      },
+      "tags": [
+        "trusted",
+        "id_verified"
+      ],
+      "id_verified": true
+    },
+    {
+      "id": "gen_033",
+      "name": "TCG lucky",
+      "status": "genuine",
+      "trust_level": "verified",
+      "seller_type": "Individual",
+      "tcg_type": "Pokemon",
+      "products": [
+        "Singles"
+      ],
+      "instagram": {
+        "handle": "@lucky_tcg_",
+        "url": "https://www.instagram.com/lucky_tcg_/"
+      },
+      "tags": [
+        "trusted",
+        "id_verified"
+      ],
+      "id_verified": true
+    },
+    {
+      "id": "gen_037",
+      "name": "Cubone TCG (Dev)",
+      "status": "genuine",
+      "trust_level": "verified",
+      "seller_type": "Individual",
+      "tcg_type": "Pokemon",
+      "products": [
+        "Singles"
+      ],
+      "instagram": {
+        "handle": "@cubonetcg7",
+        "url": "https://www.instagram.com/cubonetcg7"
+      },
+      "tags": [
+        "trusted",
+        "id_verified"
+      ],
+      "id_verified": true
+    },
+    {
+      "id": "gen_038",
+      "name": "Hemant Dubey",
+      "status": "genuine",
+      "trust_level": "verified",
+      "seller_type": "Individual",
+      "tcg_type": "Pokemon",
+      "products": [
+        "Singles"
+      ],
+      "instagram": {
+        "handle": "@sellat_poke_club",
+        "url": "https://www.instagram.com/sellat_poke_club"
+      },
+      "tags": [
+        "trusted",
+        "id_verified"
+      ],
+      "id_verified": true
+    },
+    {
+      "id": "gen_039",
+      "name": "Fahim TCG",
+      "status": "genuine",
+      "trust_level": "verified",
+      "seller_type": "Individual",
+      "tcg_type": "Pokemon",
+      "products": [
+        "Singles"
+      ],
+      "instagram": {
+        "handle": "@fahim_tcg",
+        "url": "https://www.instagram.com/fahim_tcg"
+      },
+      "tags": [
+        "trusted",
+        "id_verified"
+      ],
+      "id_verified": true
+    },
+    {
+      "id": "gen_042",
+      "name": "Sagar Rupani",
+      "status": "genuine",
+      "trust_level": "verified",
+      "seller_type": "Individual",
+      "tcg_type": "Pokemon",
+      "products": [
+        "Singles"
+      ],
+      "instagram": {
+        "handle": "@sagarrupani20",
+        "url": "https://www.instagram.com/sagarrupani20/"
+      },
+      "tags": [
+        "trusted",
+        "id_verified"
+      ],
+      "id_verified": true
+    },
+    {
+      "id": "gen_043",
+      "name": "TCG Depo.in",
+      "status": "genuine",
+      "trust_level": "verified",
+      "seller_type": "Individual",
+      "tcg_type": "Pokemon",
+      "products": [
+        "Singles"
+      ],
+      "instagram": {
+        "handle": "@tcgdepo.in",
+        "url": "https://www.instagram.com/tcgdepo.in"
+      },
+      "tags": [
+        "trusted",
+        "id_verified"
+      ],
+      "id_verified": true
+    },
+    {
+      "id": "gen_044",
+      "name": "Aditya Ravi (stardust_collects)",
+      "status": "genuine",
+      "trust_level": "verified",
+      "seller_type": "Individual",
+      "tcg_type": "Pokemon",
+      "products": [
+        "Singles"
+      ],
+      "instagram": {
+        "handle": "@stardust_collects",
+        "url": "https://www.instagram.com/stardust_collects/"
+      },
+      "tags": [
+        "trusted",
+        "id_verified"
+      ],
+      "id_verified": true
+    },
+    {
+      "id": "gen_046",
+      "name": "Vasu TCG",
+      "status": "genuine",
+      "trust_level": "verified",
+      "seller_type": "Individual",
+      "tcg_type": "Pokemon",
+      "products": [
+        "Singles"
+      ],
+      "instagram": {
+        "handle": "@vasu_tcg",
+        "url": "https://www.instagram.com/vasu_tcg"
+      },
+      "tags": [
+        "trusted",
+        "id_verified"
+      ],
+      "id_verified": true
+    },
+    {
+      "id": "scam_003",
+      "name": "Suhaan",
+      "status": "scammer",
+      "trust_level": "suspicious",
+      "seller_type": "Unknown",
+      "tcg_type": "Pokemon",
+      "products": [
+        "Unknown"
+      ],
+      "instagram": {
+        "handle": "@poke_rift",
+        "url": "https://www.instagram.com/poke_rift"
+      },
+      "severity": "caution",
+      "reason": "repeated concerns regarding poor communication during transactions, lack of accountability in deals involving payments, and an uncooperative or dismissive attitude when issues arise.",
+      "tags": [
+        "suspicious",
+        "caution"
+      ],
+      "id_verified": false
+    },
+    {
+      "id": "scam_004",
+      "name": "Ashish",
+      "status": "scammer",
+      "trust_level": "suspicious",
+      "seller_type": "Unknown",
+      "tcg_type": "Pokemon",
+      "products": [
+        "Unknown"
+      ],
+      "instagram": {
+        "handle": "@ashish_pokemon",
+        "url": "https://www.instagram.com/ashish_pokemon"
+      },
+      "severity": "caution",
+      "reason": "Selling cards way above market value.",
+      "tags": [
+        "overpriced",
+        "caution"
+      ],
+      "id_verified": false
+    },
+    {
+      "id": "scam_005",
+      "name": "Dev Tiwari/Mew Tiwari",
+      "status": "scammer",
+      "trust_level": "blacklisted",
+      "seller_type": "Unknown",
+      "tcg_type": "Pokemon",
+      "products": [
+        "Unknown"
+      ],
+      "instagram": {
+        "handle": "Account Deactivated",
+        "url": null
+      },
+      "severity": "critical",
+      "reason": "Scammed Around 30 people with around 8-10 lakh of stuff. Not responding for refund or shipment.",
+      "tags": [
+        "scammer",
+        "do_not_trade",
+        "critical"
+      ],
+      "id_verified": false
+    },
+    {
+      "id": "scam_006",
+      "name": "EvoCollects3",
+      "status": "reported",
+      "trust_level": "suspicious",
+      "seller_type": "Unknown",
+      "tcg_type": "Pokemon",
+      "products": [
+        "Unknown"
+      ],
+      "instagram": {
+        "handle": "@evocollects3",
+        "url": "https://www.instagram.com/evocollects3"
+      },
+      "severity": "reported",
+      "reason": "Using fake feedbacks to make sales",
+      "tags": [
+        "reported",
+        "unconfirmed"
+      ],
+      "id_verified": false
+    },
+    {
+      "id": "scam_007",
+      "name": "Worldaports.best",
+      "status": "resolved",
+      "trust_level": "resolved",
+      "seller_type": "Unknown",
+      "tcg_type": "Pokemon",
+      "products": [
+        "Unknown"
+      ],
+      "instagram": {
+        "handle": "@worldsports.best",
+        "url": "https://www.instagram.com/worldsports.best/"
+      },
+      "severity": "resolved",
+      "reason": "No Response after taking money",
+      "tags": [
+        "was_reported",
+        "resolved"
+      ],
+      "id_verified": false
+    }
+  ]
+}

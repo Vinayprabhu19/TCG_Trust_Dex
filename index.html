@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TCG Trust Dex — India Pokemon TCG Community</title>
+  <meta name="description" content="A Pokédex-styled trust registry for the India Pokémon TCG community. Search verified sellers and reported scammers.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&family=Press+Start+2P&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <!-- Floating background symbols -->
+  <div class="bg-symbols" aria-hidden="true"></div>
+  <!-- Scanline overlay -->
+  <div class="scanline-overlay" aria-hidden="true"></div>
+
+  <!-- Pokédex Device -->
+  <div class="pokedex">
+
+    <!-- Top indicator lights -->
+    <div class="top-lights">
+      <div class="big-light">
+        <div class="big-light-inner"></div>
+      </div>
+      <div class="small-light red"></div>
+      <div class="small-light yellow"></div>
+      <div class="small-light green"></div>
+    </div>
+
+    <!-- Main Screen -->
+    <div class="screen">
+      <div class="screen-inner">
+
+        <!-- Title bar -->
+        <div class="screen-title">
+          <span class="title-text">TCG TRUST DEX</span>
+          <span class="title-sub">INDIA</span>
+        </div>
+
+        <!-- Status bar -->
+        <div class="status-bar">
+          <span class="status-item" id="statusGenuine">GENUINE: --</span>
+          <span class="status-sep">|</span>
+          <span class="status-item" id="statusScammers">FLAGGED: --</span>
+        </div>
+
+        <!-- Search input -->
+        <div class="search-wrap">
+          <input
+            type="text"
+            id="searchInput"
+            class="search-input"
+            placeholder="Search name or @handle..."
+            autocomplete="off"
+            spellcheck="false"
+          >
+        </div>
+
+        <!-- Category buttons -->
+        <div class="category-tabs">
+          <button class="cat-btn active" data-filter="all">ALL</button>
+          <button class="cat-btn" data-filter="sellers">SELLERS</button>
+          <button class="cat-btn" data-filter="individuals">INDIVIDUALS</button>
+          <button class="cat-btn" data-filter="rocket">TEAM ROCKET</button>
+        </div>
+
+        <!-- Result count -->
+        <div class="result-count" id="resultCount">Loading...</div>
+
+        <!-- Scrollable tile list -->
+        <div class="tile-scroll" id="tileScroll">
+          <div id="tileGrid"></div>
+        </div>
+
+        <!-- Detail Panel (slides over) -->
+        <div class="detail-panel" id="detailPanel">
+          <button class="detail-back" onclick="closeDetail()">◀ BACK</button>
+          <div class="detail-content" id="detailContent"></div>
+        </div>
+
+      </div>
+    </div>
+
+    <!-- Bottom Controller -->
+    <div class="controller">
+
+      <!-- D-pad -->
+      <div class="dpad">
+        <div class="dpad-up" id="dpadUp">&#9650;</div>
+        <div class="dpad-center"></div>
+        <div class="dpad-down" id="dpadDown">&#9660;</div>
+        <div class="dpad-left" id="dpadLeft">&#9664;</div>
+        <div class="dpad-right" id="dpadRight">&#9654;</div>
+      </div>
+
+      <!-- Center info / GET VERIFIED -->
+      <div class="mid-info">
+        <button class="verify-btn" onclick="window.open('https://docs.google.com/forms/d/e/1FAIpQLSebyfITMCs0LOaDj_HEsj4d0T1n-hNqeLwFxQzsrP2uPakbNA/viewform', '_blank')">
+          GET VERIFIED
+        </button>
+      </div>
+
+      <!-- A / B buttons -->
+      <div class="ab-buttons">
+        <div class="ab-btn a-btn" id="btnA">A</div>
+        <div class="ab-btn b-btn" id="btnB">B</div>
+      </div>
+
+    </div>
+
+  </div>
+
+  <!-- Powered by -->
+  <div class="powered-by">
+    Powered by
+    <a href="https://www.instagram.com/magikart.in" target="_blank" rel="noopener noreferrer">@magikart.in</a>
+  </div>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
